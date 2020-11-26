@@ -2,7 +2,7 @@
 
 STATUS: This project is discontinued
 
-This repository contains all files used for the development of a high level module using ESP8266.
+This repository contains all files used for the development of a high level module using ESP8266 with Micropython.
 It includes:
 - documentation
 - firmware (in this case Micropython for ESP8266)
