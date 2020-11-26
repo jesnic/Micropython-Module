@@ -1,6 +1,6 @@
 ## JesNic Module
 
-STATUS: This project is discountinued
+STATUS: This project is discontinued
 
 This repository contains all files used for the development of a high level module using ESP8266.
 It includes:
