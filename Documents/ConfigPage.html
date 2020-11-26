@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Choose your mode and then enter your network credentials...</p>
+
+
+
+<form action="/action_page.php" method="get">
+
+ <fieldset>
+  	<legend><b>Mode</b></legend>
+    	Mode: 
+    	<select name='mode'>
+    		<option value='online'>Online</option>
+        	<option value='offline'>Offline</option>
+    	</select>
+		
+ </fieldset>
+ 
+  
+ <br>
+
+
+ <fieldset>
+  	<legend><b>Network</b></legend>
+    	Name: 
+    	<select name='ssid'>
+    	<option value='value'>NAME</option>
+		</select>
+		or <input type='password' name='password'>
+    	<br><br>
+    	Password: <input type='password' name='password'><br>
+ </fieldset>
+ 
+ <br>
+
+  <fieldset>
+  	<legend><b>Measurement time</b></legend>
+    	Time in seconds: 
+    	<input type='text' name='readingTime'>
+		<br>
+		This is the interval between measurements, the minimum is 30 seconds.
+		Time can vary a maximum of 10 seconds, so if your measurement time is
+		30 seconds, then a measurement may take 40 seconds in the worst case!
+		
+ </fieldset>
+ 
+  
+ <br>
+ 
+ <input type="submit" value="Ready!">
+  
+</form>
+
+
+</body>
+</html>
