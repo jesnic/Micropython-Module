@@ -13,3 +13,5 @@ Please, keep in mind you need to have some tools installed if you want to code E
 - esptool
 - any text editor or IDE (we recommend you use Thonny IDE or the normal Python IDLE)
 - ampy (recommended if you do not have a way to code or manage the files on your board)
+
+Keywords: Module, Micropython, Electronics
