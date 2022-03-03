@@ -1,4 +1,4 @@
-## JesNic Module
+## JesNic Module (THIS IS DISCONTINUED, A BETTER VERSION USING C++ IS AVAILABLE!)
 
 STATUS: This project is discontinued
 
